@@ -1,0 +1,37 @@
+body {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+h1, h2 {
+  color: white;
+  font-weight: normal;
+}
+
+.link {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+.app {
+  padding: 30px;
+}
+
+.copy {
+  text-align: right;
+}
